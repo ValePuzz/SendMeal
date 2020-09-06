@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <dimen name="app_name">20sp</dimen>
+    <dimen name="nombreUsuario">20sp</dimen>
+    <dimen name="password1">20sp</dimen>
+    <dimen name="password2">20sp</dimen>
+    <dimen name="mailUsuario">20sp</dimen>
+    <dimen name="numeroTarjeta">20sp</dimen>
+    <dimen name="codigoCCV">20sp</dimen>
+    <dimen name="mesVencimiento">20sp</dimen>
+    <dimen name="añoVencimiento">20sp</dimen>
+    <dimen name="numeroCBU">20sp</dimen>
+    <dimen name="aliasCBU">20sp</dimen>
+    <dimen name="botonRegistro">20sp</dimen>
+</resources>
